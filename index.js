@@ -1,4 +1,5 @@
 // Higher-order function to perform an operation on each element of an array
+
 function operateOnArray(array, operation) {
   let result = [];
   for (let i = 0; i < array.length; i++) {
